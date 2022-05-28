@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.fheadj h4 a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.fhetul {
+    font-size: 18px
+}
+
+.fhetul ul li {
+    color: white;
+    font-size: 24px;
+
+
+}
+
+.fheadhj h4 a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.svglogos {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+
+.lsvg {
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.tsvg {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.ysvg {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+/* CUSTOM FOOTER */
+
+
+.footer {
+    background:black;
+
+}
+
+
+.footer-1{
+    display: flex;
+    margin-left: -25px;
+}
+
+.fcontent{
+    padding-top: 10px;
+}
+.fcontent-2{
+   /* margin-left: 20px; */
+margin-left: -10px;
+
+}
+.fcontent h2 {
+    color: white;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.fcontent ul {
+    margin-left:70px;
+    list-style: none;
+    color: white;
+    font-size: 24px;
+    margin-top: -45px;
+}
+
+.fcontent a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+
+}
+
+.fcontent ul :hover{
+    text-decoration: underline;
+    font-size: 24px;
+    cursor: pointer;
+    color:orangered;
+}
+.fcontent hr{
+    color: white;
+    width: 350px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.svg-hover:hover{
+    width: 50px;
+}
+.fcontent-2 h2{
+    margin-top: 20px;
+    color: white;
+    margin-left: 70px;
+}
+
+.fcontent-2 hr{
+    color: white;
+    width: 375px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.fcontent-2 li{
+    text-align: center;
+    font-size: 24px;
+}
+
+
+.fcontent-2 li a {
+    list-style: none;
+    list-style: none;
+    text-decoration: none;
+    color:white;
+}
+
+.fcontent-2 li a:hover{
+    color: orangered;
+}
+
+.fcontent-3{
+    margin-top: 20px;
+    color: white;
+    margin-left: 50px;
+}
+.fcontent-3 h2{
+    margin-left: 40px;
+}
+
+.fcontent-2 ul li{
+    text-align: center;
+    font-size: 24px;
+    list-style: none;
+}
+
+.fcontent-3 li a{
+    list-style: none;
+    text-decoration: none;
+    color:white;
+    font-size: 24px;
+
+}
+
+.fcontent-3 li a:hover{
+    color: orangered;
+
+}
+
+.fback{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.fback h2{
+    margin-left: 40px;
+}
+.fback hr{
+    width: 215px;
+    margin-left: 20px;
+
+}
+.fback a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.fback a h2{
+    margin-left: 50px;
+}
+.fback a:hover{
+    color: orangered;
+}
+
+.smedia{
+    margin-top: 40px;
+}
+
+.smedia h2{
+    color: white;
+    /* margin-left: 40px; */
+    margin-left: 25px;
+}
+
+.smedia hr{
+    color: white;
+    width:250px;
+    font-weight: bold;
+    margin-left: 0px;
+}
+.svglogos{
+    margin-left: 15px;
+}
+
+
+
+
+.f-cont h2{
+    /* margin-left: 20px; */
+    margin-top: 20px;
+}
+
+.f-cont a h2:hover{
+    color: orangered;
+}
+
+.f-cont hr:hover{
+    color:orangered;
+}
+
+
